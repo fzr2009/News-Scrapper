@@ -1,6 +1,6 @@
 # News-Scrapper
 This work is inspired from the book: "web scrapping with python" (Ryan mitchell)
-It requests the website and scraps news from different pages. It uses pyt beautiful-soup, and requests packages to scrap data.
+It requests the website and scraps news from different pages. It uses python beautiful-soup, and requests packages to scrap data.
 the scrapper scraps new from https://www.urdupoint.com/en/news/pakistan/crime-updates.html to different diserable number of news, for every news it scraps data of main-category's link, news orginal link, date, time, Headline, short descrpition, full-story description.
 
 
